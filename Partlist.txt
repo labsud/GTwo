@@ -1,0 +1,22 @@
+Part     Value                   Package     Library      Position (inch)       Orientation
+
+JP1      Header 2 rows           2X13        pinhead      (1.9 1.575)           R270
+JP2      Header 2 rows           2X08        pinhead      (2.775 1.675)         R0
+JP3      Header 2 rows           2X08        pinhead      (2.775 1.25)          R0
+JP4      Header 1 row            1X03        pinhead      (0.6 1.85)            R0
+JP5      Header 2 rows           2X05        pinhead      (0.6 1.575)           R0
+JP6      Header 1 row            1X03        pinhead      (1.15039998 0.675)    R180
+JP7      Header 2 rows     	   2X05        pinhead      (1.85 0.75)           R0
+M1       Header 1 row            1X06        pinhead      (1.4 2.125)           R180
+M2       Header 1 row            1X06        pinhead      (1.4 1.9)             R180
+M3       Header 1 row            1X06        pinhead      (1.4 1.675)           R180
+M4       Header 1 row            1X06        pinhead      (1.4 1.45)            R180
+M5       Header 1 row            1X06        pinhead      (1.4 1.225)           R180
+M6       Header 1 row            1X06        pinhead      (1.4 1.025)           R180
+S1       Pushbutton              B3F-31XX    adafruit     (0.45 0.55)           R0
+U1       TXB0108                 TSSOP20                  (2.58810002 2.08770005)
+
+6 X 2.54mm Jumpers
+1 X HE10 26 pins (TB6560 option)
+1 X DB25 Femelle (TB6560 Option)
+1 X 5cm 26 pin ribbon
