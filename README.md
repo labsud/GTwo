@@ -39,6 +39,8 @@
 
 <h5 id="when_using_a_tb6560_power_board_">When using a TB6560 power board :</h5>
 
+That work is the property of Jean-Philippe Civade (jp at civade dot com) and is shared under <a href="licence-CC-By-NC 3.0.txt">Creative Common NonCommercial 3.0</a>
+
 <ul>
 <li>JP1 : For connectig to a TB6560 &#8220;Red&#8221; Stepper driver board. A cable must be made with a HE10-26F > DB25F emulating parallel port. If using JP1, don&#8217;t use M1>M6</li>
 <li>JP2 : Limits configuration for TB6560. Must be left unequipped if using M1 > M6 connections.</li>

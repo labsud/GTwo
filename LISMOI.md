@@ -1,5 +1,7 @@
 <h1 id="shield_gtwo_pour_arduino_due_tinyg_2">Shield GTwo pour Arduino DUE &amp; TinyG 2</h1>
 
+Ce travail est la propri&eacute;t&eacute; de Jean-Philippe Civade (jp at civade dot com), et est mis sous licence <a href="licence-CC-By-NC 3.0.txt">Creative Common NonCommercial 3.0</a>
+
 <p><a href="https://github.com/synthetos/TinyG">TinyG</a> est un syst&egrave;me de contr&ocirc;le &agrave; 6 axes d&eacute;velopp&eacute;  par Synthetos pour piloter CNC, d&eacute;coupe laser, etcc. Il a &eacute;t&eacute; con&ccedil;u pour fonctionner sur processeur Atmel ATxmega192.  C&#8217;est un syst&egrave;me complet (hard + soft).</p>
 
 <p>Quelques caract&eacute;ristiques :</p>
